@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpo:home|Door43 (kpo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpo|d43-kpo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpo/archive/master.zip|d43-kpo.zip]]
+
+**Recent Changes**
+{{changes>ns = kpo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpo|Ethnologue data]]
+
